@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **LinMulikas/LinMulikas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,6 +21,24 @@ Here are some ideas to get you started:
 - 🎸 I'll be a vocal in a coming Chinese Rock Band.
 - 💬 Contact me by wangdl2020@sustech.edu.cn if you're also interested in the related filed or looking forward some PhD students in the related areas.
 
-### Status
+# Skills
+
+## Programming Language
+
+- Daily use:
+  
+  [![My Skills](https://skillicons.dev/icons?i=py,vscode,git,github)](https://skillicons.dev)
+
+- Familiar:
+  
+  [![My Skills](https://skillicons.dev/icons?i=java,cpp&theme=light)](https://skillicons.dev)
+
+
+
+
+## Knowledge
+
+
+# Status
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinMulikas&layout=compact&theme=tokyonight)
