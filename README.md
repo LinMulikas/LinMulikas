@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on the Application of 2024 Fall PhD in Applied Mathematics, Computer Science and related areas. And I'm also reviewing the courses I'm taken to prapare for the Summer Camp of CUHK and other possible coming interview.
+(The following content is out of data.)
+
+- 🔭 I’m currently working on the Application of 2024 Fall PhD in Applied Mathematics, Computer Science and related areas. And I'm also reviewing the courses I'm taken to prapare for the Summer Camp of CUHK(SZ) and other possible coming interview.
 - 💻 I'm doing some learn in the research of Neural Network. And try to review some knowledge I've learnt.
 
 - 📖 I’m interested in Applied Mathematics, Programming Language Theory, Computer Algebra, AI, especially AI for Science.
