@@ -16,42 +16,38 @@ Here are some ideas to get you started:
 -->
 
 (The following content is out of data.)
-
-- 🔭 I’m currently working on the Application of 2024 Fall PhD in Applied Mathematics, Computer Science and related areas. And I'm also reviewing the courses I'm taken to prapare for the Summer Camp of CUHK(SZ) and other possible coming interview.
-- 💻 I'm doing some learn in the research of Neural Network. And try to review some knowledge I've learnt.
-
-- 📖 I’m interested in Applied Mathematics, Programming Language Theory, Computer Algebra, AI, especially AI for Science.
+- 🔭 I’m in the winter seminar AI For Math Seminar now.([bicmr-ai4math](https://github.com/bicmr-ai4math/))
+  
+- I've got a conditional offer of CUHK, Shenzhen campus.
+  
+- 📖 I’m now interested in Mathematics, Programming Language Theory, Type Theory.
+  - Mathematics.
+    I'll got a bachelor at Mathematics and Applied Mathematics at 2024.June from SUSTech(Southern University of Science and Technology).
+    And I have common interests in math.
   - Programming Language Theory.
-    Especially the Functional Programming, I've leant the basic knowledge of Haskell, Lisp. And I'm interested in some other pattern of programming language.
-  - Computer Algebra.
-    I want to learn something about the Symbolic Equation, but this may need some other algebraic background.
-  - AI, AI for Science.
-    I feel there maybe some connection between Language itself and the human intelligence. So I'll try to build the knowledge I need.
-    AI for Science is something like use AI tools in Applied Mathematics in my opinion. So I'll also learn the basic idea of AI in the modern era.
+    I'm insterested in FP(Functional Programming). I'm skilled at C/CPP, Python and Java etc. I've leant the basic of Common Scheme, Haskell.
+    And I'm in the Winter Seminar of LEAN4(ai4math) at PKU(Peking University).
+  - Type Theory.
+    I'm familiar with basic type theory, Lambda Calculus.
+    I'm interested in Combinatory Logic.
 
-- 🎸 I'll be a vocal in a coming Chinese Rock Band.
-  I like some music like The Gar.
+- 📖 I've leant basic mathematics courses and CS courses.
+  Including the following content.
+  - Mathematics.
+    I just familiar with math. But I'm not skilled at these content.
+    - Analysis
+      Principle of Mathematics Analysis, Real and Complex Analyiss.
+    - Algebra
+      Linear Algebra, Basic Group, Ring theory.
+  - Machine Learning.
+  - Neural Network.
 
-
-- 💬 Contact me by wangdl2020@sustech.edu.cn if you're also interested in the related filed or looking forward some PhD students in the related areas.
-
-# Skills
-
-## Programming Language
-
-- Daily use:
-  
-  [![My Skills](https://skillicons.dev/icons?i=py,vscode,git,github)](https://skillicons.dev)
-
-- Familiar:
-  
-  [![My Skills](https://skillicons.dev/icons?i=java,cpp&theme=light)](https://skillicons.dev)
+- 🎸 I'm a vocal in a campus Chinese Rock Band.
+  I like Pink Floyd.
 
 
-
-
-## Knowledge
-
+- 💬 Other information.
+  Contact me by wangdl2020@sustech.edu.cn if you're also interested in the related fields.
 
 # Status
 
