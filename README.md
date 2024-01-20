@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 (The following content is out of data.)
-- 🔭 I’m now in the winter seminar held by PKU, the AI For Math Seminar.([bicmr-ai4math](https://github.com/bicmr-ai4math/))
+- 🔭 I’m now in the winter seminar, AI For Math Seminar, held by PKU.([bicmr-ai4math](https://github.com/bicmr-ai4math/))
   
 - I've got a conditional offer of CUHK, Shenzhen campus.
   
