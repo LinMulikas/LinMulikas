@@ -21,30 +21,47 @@ Here are some ideas to get you started:
 - I've got a conditional offer of CUHK, Shenzhen campus.
   
 - 📖 I’m now interested in Mathematics, Programming Language Theory, Type Theory.
+  
   - Mathematics.
+    
     I'll got a bachelor at Mathematics and Applied Mathematics at 2024.June from SUSTech(Southern University of Science and Technology).
     And I have common interests in math.
+  
   - Programming Language Theory.
+    
     I'm insterested in FP(Functional Programming). I'm skilled at C/CPP, Python and Java etc. I've leant the basic of Common Scheme, Haskell.
     And I'm in the Winter Seminar of LEAN4(ai4math) at PKU(Peking University).
+    
   - Type Theory.
+    
     I'm familiar with basic type theory, Lambda Calculus.
     I'm interested in Combinatory Logic.
 
 - 📖 I've leant basic mathematics courses and CS courses.
+  
   Including the following content.
+
   - Mathematics.
+    
     I just familiar with math. But I'm not skilled at these content.
+  
     - Analysis
+      
       Principle of Mathematics Analysis, Real and Complex Analyiss.
     - Algebra
+      
       Linear Algebra, Basic Group, Ring theory.
+      
   - Machine Learning.
+    
     Basic methodology of Machine Learning.
+    
   - Neural Network.
+    
     Basic NN for PDE solving. Esepecially [PINNS](https://github.com/LinMulikas/Neural-Network-PDE).
 
 - 🎸 I'm a vocal in a campus Chinese Rock Band.
+  
   I like The Gar, Pink Floyd, Hedgehog, Omnipotent Youth Society etc.
 
 - 💬 Other information.
