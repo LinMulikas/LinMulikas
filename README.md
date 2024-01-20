@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 (The following content is out of data.)
-- 🔭 I’m in the winter seminar AI For Math Seminar now.([bicmr-ai4math](https://github.com/bicmr-ai4math/))
+- 🔭 I’m now in the winter seminar held by PKU, the AI For Math Seminar.([bicmr-ai4math](https://github.com/bicmr-ai4math/))
   
 - I've got a conditional offer of CUHK, Shenzhen campus.
   
@@ -40,14 +40,15 @@ Here are some ideas to get you started:
     - Algebra
       Linear Algebra, Basic Group, Ring theory.
   - Machine Learning.
+    Basic methodology of Machine Learning.
   - Neural Network.
+    Basic NN for PDE solving. Esepecially [PINNS](https://github.com/LinMulikas/Neural-Network-PDE).
 
 - 🎸 I'm a vocal in a campus Chinese Rock Band.
-  I like Pink Floyd.
-
+  I like The Gar, Pink Floyd, Hedgehog, Omnipotent Youth Society etc.
 
 - 💬 Other information.
-  Contact me by wangdl2020@sustech.edu.cn if you're also interested in the related fields.
+  Contact me with wangdl2020@sustech.edu.cn if you're interested in the related fields or just interested in me.
 
 # Status
 
